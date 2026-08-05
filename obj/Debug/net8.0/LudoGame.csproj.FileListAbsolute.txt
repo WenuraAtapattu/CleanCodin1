@@ -1,0 +1,14 @@
+/Users/user/Desktop/CleanCodin1/obj/Debug/net8.0/LudoGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/CleanCodin1/obj/Debug/net8.0/LudoGame.AssemblyInfoInputs.cache
+/Users/user/Desktop/CleanCodin1/obj/Debug/net8.0/LudoGame.AssemblyInfo.cs
+/Users/user/Desktop/CleanCodin1/obj/Debug/net8.0/LudoGame.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/CleanCodin1/bin/Debug/net8.0/LudoGame
+/Users/user/Desktop/CleanCodin1/bin/Debug/net8.0/LudoGame.deps.json
+/Users/user/Desktop/CleanCodin1/bin/Debug/net8.0/LudoGame.runtimeconfig.json
+/Users/user/Desktop/CleanCodin1/bin/Debug/net8.0/LudoGame.dll
+/Users/user/Desktop/CleanCodin1/bin/Debug/net8.0/LudoGame.pdb
+/Users/user/Desktop/CleanCodin1/obj/Debug/net8.0/LudoGame.dll
+/Users/user/Desktop/CleanCodin1/obj/Debug/net8.0/refint/LudoGame.dll
+/Users/user/Desktop/CleanCodin1/obj/Debug/net8.0/LudoGame.pdb
+/Users/user/Desktop/CleanCodin1/obj/Debug/net8.0/LudoGame.genruntimeconfig.cache
+/Users/user/Desktop/CleanCodin1/obj/Debug/net8.0/ref/LudoGame.dll
